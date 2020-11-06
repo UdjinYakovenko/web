@@ -1,2 +1,2 @@
-<h1> Hello, Миша всё х!%я !!!! </h1>
-<h2> Давай сначала!!! </h2>
+<h1> Hello, DevOps project !!!! </h1>
+<h2> Something else </h2>
